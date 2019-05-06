@@ -1,4 +1,3 @@
-Node res;
 static boolean v1Flag = false;
 static boolean v2Flag = false;
 static void check(Node root, int v1, int v2) {
